@@ -207,7 +207,7 @@ background_css = """
 
 st.markdown(background_css, unsafe_allow_html=True)
 
-st.title("SmartPrep.Ai ")
+st.title("Air Shield")
 
 choice = st.selectbox("Select an option:", [None, "AQI Analysis Of Last 10 Years Using HeatMap", "Prediction Of Future AQI Levels In Different Districts"])
 
